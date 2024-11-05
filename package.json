@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-sqlite",
+  "version": "1.0.0",
+  "description": "basoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sqlitecloud/drivers": "^1.0.289",
+    "sqlite3": "^5.1.7"
+  }
+}
